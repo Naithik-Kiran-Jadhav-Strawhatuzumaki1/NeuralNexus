@@ -3,7 +3,7 @@
 Neural Nexus is a modern AI-powered educational web application designed to simplify complex academic content into easy, Gen-Z style explanations. Students can upload notes or PDFs and instantly “Glow Up” their study material into understandable, engaging explanations.
 
 
-🎯 Objective
+## 🎯 Objective
 
 Simplify difficult academic content
 
@@ -14,7 +14,7 @@ Provide an interactive AI-powered study assistant
 Improve student understanding and retention
 
 
-✨ Core Features
+## ✨ Core Features
 
 📄 Document / Notes upload UI
 
@@ -67,7 +67,7 @@ Supabase (Database & Authentication)
 Vercel (Deployment)
 
 
-🔄 Workflow
+## 🔄 Workflow
 
 User logs in
 
@@ -86,7 +86,7 @@ Chats saved to database
 User can view past chats in History
 
 
-👥 Team Roles
+## 👥 Team Roles
 
 Role
 Name
@@ -102,7 +102,7 @@ Naithik
 Supabase, authentication, chat storage
 
 
-📁 Pages
+## 📁 Pages
 
 index.html — Landing / Login page
 
@@ -113,7 +113,7 @@ history.html — Chat history UI
 style.css — Global styling
 
 
-🔐 Security Measures (Planned)
+## 🔐 Security Measures (Planned)
 
 API keys stored in environment variables
 
@@ -124,7 +124,7 @@ Supabase authentication
 .env and .gitignore for secrets
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 🎙️ Voice explanations
 
@@ -137,13 +137,13 @@ Supabase authentication
 🔍 Auto highlight key concepts
 
 
-⚠️ Important Note
+## ⚠️ Important Note
 This repository contains only the frontend UI.
 
 Backend, AI integration, and database functionality will be connected separately by other team members.
 
 
-🌐 Deployment
+## 🌐 Deployment
 The project is deployed using Vercel.
 
 
