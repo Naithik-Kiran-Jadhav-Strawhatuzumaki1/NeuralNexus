@@ -137,7 +137,8 @@ Supabase authentication
 🔍 Auto highlight key concepts
 
 
-## ⚠️ Important Note
+## ⚠️ what ai does
+ai is the brain of our app, it answers questions, generates flashcards and follows your commands
 This repository contains only the frontend UI.
 
 Backend, AI integration, and database functionality will be connected separately by other team members.
