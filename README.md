@@ -88,18 +88,18 @@ User can view past chats in History
 
 ## 👥 Team Roles
 
-Role
-Name
-Responsibility
-Frontend Developer
-Harshini
-UI/UX, HTML/CSS, responsive design
-Backend Developer
-Rene
-API, AI integration, server logic
-Database & Auth Developer
-Naithik
-Supabase, authentication, chat storage
+
+Frontend Developer-
+Harshini-
+UI/UX, HTML/CSS, responsive design.
+
+Backend Developer-
+Rene-
+API, AI integration, server logic.
+
+Database & Auth Developer-
+Naithik-
+Supabase, authentication, chat storage.
 
 
 ## 📁 Pages
@@ -128,8 +128,6 @@ Supabase authentication
 
 🎙️ Voice explanations
 
-🧠 Flashcard generation
-
 ❓ Quiz generation from notes
 
 🎨 Multiple explanation styles
@@ -139,9 +137,6 @@ Supabase authentication
 
 ## ⚠️ what ai does
 ai is the brain of our app, it answers questions, generates flashcards and follows your commands
-This repository contains only the frontend UI.
-
-Backend, AI integration, and database functionality will be connected separately by other team members.
 
 
 ## 🌐 Deployment
